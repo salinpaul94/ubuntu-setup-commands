@@ -3,3 +3,5 @@ sudo apt install gnome-shell-extension-manager
 
 open gnome shell extension manager
 install -- compiz alike magic effect
+
+sudo apt dist-upgrade -y
