@@ -7,3 +7,9 @@ install -- compiz alike magic effect
 sudo apt dist-upgrade -y
 
 sudo apt install gnome-tweaks
+
+install gnome extension for chrome
+go to extension.gnome.org
+
+go to below link for downloading resources
+https://www.pling.com/p/1805660/
