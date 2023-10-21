@@ -5,3 +5,5 @@ open gnome shell extension manager
 install -- compiz alike magic effect
 
 sudo apt dist-upgrade -y
+
+sudo apt install gnome-tweaks
