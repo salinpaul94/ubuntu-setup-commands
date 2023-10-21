@@ -13,3 +13,6 @@ go to extension.gnome.org
 
 go to below link for downloading resources
 https://www.pling.com/p/1805660/
+
+Clone whitesur-gtk-theme github
+git clone git@github.com:vinceliuice/WhiteSur-gtk-theme.git
