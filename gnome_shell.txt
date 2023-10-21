@@ -62,3 +62,13 @@ dconf load /org/gnome/shell/extensions/<all_extension_settings.conf
 Applying gtk theme, icon, cursors and fonts
 open tweaks
 follow vedio
+
+
+sudo apt install conky-all curl jq moc
+extract conky-config.zip
+open conky-config folder and
+create conky folder in home/.config folder
+copy Graffias to ~/.config/conky
+copy start_conky.desktop to ~/.config/autostart
+
+logout and login
