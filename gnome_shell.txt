@@ -83,3 +83,6 @@ open wallpaper_pack folder and select wallpaper
 create a folder backgrounds in ~/.local/share
 copy all wallpapers to backgrounds folder
 right click on desktop and select change background and select wallpaper
+
+Additional settings
+open the whitesur-gtk-theme folder in terminal
