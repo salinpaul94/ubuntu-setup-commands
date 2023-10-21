@@ -46,3 +46,11 @@ in home create folder .icons
 cut Vimix-white-cursors folder from home/.local/share/icons to home/.icons
 cut Vimix-cursors folder from home/.local/share/icons to home/.icons
 
+installing gnome extensions
+extract all extensions folder extensions.zip
+copy all folders of extensions to ~/.local/share/gnome-shell/extensions
+logout and login again to view all extensions in gnome extension manager
+
+clone sakith media-controls
+git clone https://github.com/sakithb/media-controls.git
+logout and login
