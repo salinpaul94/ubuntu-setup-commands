@@ -35,4 +35,14 @@ select show hidden file option
 open .local/share
 copy the fonts folder and paste here
 
+Install cursor themes
+git clone git@github.com:vinceliuice/Vimix-cursors.git
+cd to folder
+and run the command
+./install.sh
+
+in home create folder .icons
+
+cut Vimix-white-cursors folder from home/.local/share/icons to home/.icons
+cut Vimix-cursors folder from home/.local/share/icons to home/.icons
 
