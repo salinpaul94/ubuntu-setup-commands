@@ -64,7 +64,11 @@ open tweaks
 follow vedio
 
 
-sudo apt install conky-all curl jq moc
+sudo apt install conky-all
+sudo add-apt-repository ppa:teejee2008/foss
+sudo apt update
+sudo apt install conky-manager
+
 extract conky-config.zip
 open conky-config folder and
 create conky folder in home/.config folder
