@@ -28,3 +28,11 @@ cd to reversal icon theme master folder
 run command
 ./install.sh -red
 
+install fonts
+extract fonts zip file
+open home in new window
+select show hidden file option
+open .local/share
+copy the fonts folder and paste here
+
+
