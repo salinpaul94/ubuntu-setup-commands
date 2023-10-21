@@ -58,3 +58,7 @@ logout and login
 extract all-extensions folder and cd into folder and open terminal
 run the command
 dconf load /org/gnome/shell/extensions/<all_extension_settings.conf
+
+Applying gtk theme, icon, cursors and fonts
+open tweaks
+follow vedio
