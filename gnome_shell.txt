@@ -65,9 +65,7 @@ follow vedio
 
 
 sudo apt install conky-all
-sudo add-apt-repository ppa:teejee2008/foss
-sudo apt update
-sudo apt install conky-manager
+sudo apt install jq
 
 extract conky-config.zip
 open conky-config folder and
